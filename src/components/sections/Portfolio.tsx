@@ -7,6 +7,8 @@ const works = [
   "CulturalDragon",
   "VerdantVibe",
   "RecipeApp",
+  "eCommerce",
+  "MealPlans",
   "HabitTrackerApp",
   "MovieApp",
   "TestPracticeApp",
