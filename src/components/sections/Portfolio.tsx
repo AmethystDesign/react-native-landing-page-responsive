@@ -3,6 +3,7 @@ import { Title } from "../shared/Title";
 
 const works = [
   "AmethystDesign",
+  "ADeShopping",
   "Brainwave",
   "CulturalDragon",
   "VerdantVibe",
