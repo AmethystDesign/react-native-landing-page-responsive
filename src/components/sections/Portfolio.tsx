@@ -1,19 +1,7 @@
 import { Container } from "../shared/Container";
 import { Title } from "../shared/Title";
 
-const works = [
-  "AmethystDesign",
-  "ADeShopping",
-  "Brainwave",
-  "CulturalDragon",
-  "VerdantVibe",
-  "RecipeApp",
-  "eCommerce",
-  "MealPlans",
-  "HabitTrackerApp",
-  "MovieApp",
-  "TestPracticeApp",
-];
+import { works } from "../../assets/sysData.ts"
 
 export const Portfolio = () => {
   return (
